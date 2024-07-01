@@ -12,7 +12,7 @@ This Tampermonkey script removes unwanted comments on youtube based on a predefi
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
 2. Click on the Tampermonkey icon in your browser and select "Dashboard".
 3. Click on the `+` icon to create a new script.
-4. Copy and paste the contents of the `script.js` file into the editor.
+4. Copy and paste the contents of the js file into the editor.
 5. Save the script.
 
 ## 1-click Installation
