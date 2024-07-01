@@ -17,7 +17,7 @@ This Tampermonkey script removes unwanted comments on youtube based on a predefi
 
 ## 1-click Installation
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
-2. Click this link and choose install in the new window.
+2. Click this [link](https://github.com/gianmnf/youtube-comment-remover/raw/main/YouTube%20Comment%20Remover-1.0.user.js) and choose install in the new window.
 
 ## Usage
 
